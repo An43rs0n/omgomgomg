@@ -1,1 +1,2 @@
 # omgomgomg
+print("omgomgomg")
